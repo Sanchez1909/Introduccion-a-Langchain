@@ -5,8 +5,12 @@
 ## Resumen de Ollama
 
 Ollama es un programa que nos permite descargar modelos de inteligencia artificial, con la posibilidad de correr estos modelos de manera local.
+
 Pero, ¿por que buscariamos correr un modelo de manera local?.
-Aunque las respuestas pueden depender de la persona y/o el contexto, por lo regular se corren los modelos de esta manera para buscar una mayor privacidad, ya que al correr los modelos de manera local, la informacion se quedan en la computadora. Ademas de que se puede conectar con bibliotecas (como langchain), que nos permitan utilizar el modelo añadiendole nuevas y diferentes funcionalidades.
+Aunque las respuestas pueden depender de la persona y/o el contexto, por lo regular se corren los modelos de esta manera para buscar una mayor privacidad, ya que al correr los modelos de manera local, la informacion se quedan en la computadora. 
+
+Ademas de que se puede conectar con bibliotecas (como langchain), que nos permitan utilizar el modelo añadiendole nuevas y diferentes funcionalidades.
+
 Es necesario tener en cuenta que los modelos no podran acceder a internet debido a que se corren de manera local (a menos de que se convinen con herramientas como langchain), sin mencionar que la rapidez o la capacidad del modelo en nuestra maquina, depende de los componentes que tenga la misma, en este sentido, correr un modelo grande en una maquina de recursos basicos, no es la mejor opcion.
 
 ---
