@@ -37,7 +37,7 @@ A partir de aqui, tenemos dos opciones para instalar los modelos:
 - Descargando y corriendo el modelo
     - `ollama run llama3`
 
-Para que modelos podemos descargar podemos acceder a la pagina official de Ollama y explorar los diversos modelos que la pagina nos ofrece.
+Para ver que modelos podemos descargar podemos acceder a la pagina official de Ollama y explorar los diversos modelos que la pagina nos ofrece.
 
 ![Pagina para descargar modelos para Ollama](Imagenes/OllamaDescargarModelos.png)
 
