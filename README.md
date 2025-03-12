@@ -4,7 +4,7 @@ La intencion del repositorio es poder comparartir el conociemiento adquirido en 
 
 ## 🗓️ Lugar y fecha del evento
 
-**9 de Marzo, en las instalaciones del CADS**
+**26 de Marzo, en las instalaciones del CADS**
 
 ---
 
