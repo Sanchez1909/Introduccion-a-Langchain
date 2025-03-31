@@ -1,10 +1,10 @@
 # Introduccion a Langchain 🦜🔗
 
-La intencion del repositorio es poder comparartir el conociemiento adquirido en la investigacion realizada y poder mostrar la informacion mediante este repositorio y/o en las instalaciones del CADS.
+La intencion del repositorio es poder compartir el conociemiento adquirido en la investigacion realizada y poder mostrar la informacion mediante este repositorio y/o en las instalaciones del CADS.
 
 ## 🗓️ Lugar y fecha del evento
 
-**26 de Marzo, en las instalaciones del CADS**
+**02 de Abril, en las instalaciones del CADS**
 
 ---
 
